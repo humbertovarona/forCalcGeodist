@@ -16,7 +16,7 @@ Compute the distance between two geographic points (fortran 90 code)
 
 # Programming language
 
-<img src="https://img.icons8.com/?size=512&id=13441&format=png" width="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_fortran_icon_130596.png" width="50"/>
 
 # OS
 
